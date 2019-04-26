@@ -1,0 +1,27 @@
+{
+  "name": "jasmine-examples",
+  "version": "1.0.0",
+  "description": "example unit tests using Jasmine test framework",
+  "main": "example.js",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MelroyNoronha/jasmine-examples.git"
+  },
+  "keywords": [
+    "unit",
+    "testing",
+    "jasmine"
+  ],
+  "author": "Melroy Noronha",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MelroyNoronha/jasmine-examples/issues"
+  },
+  "homepage": "https://github.com/MelroyNoronha/jasmine-examples#readme",
+  "devDependencies": {
+    "jasmine": "^3.4.0"
+  }
+}
