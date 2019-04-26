@@ -16,11 +16,11 @@ You should now be able to run: </br>
 `jasmine` </br>
 This will run all the unit tests defined in `spec/example.spec.js`
 
-## Adding your own tests
+## Adding your own examples
 Create a file in the `jasmine-examples` directory with the following naming scheme: </br>
 `name-example.js` (replace 'name' with your name) </br>
 This file is for the code that you would like to test.
 
 Create a file in the `spec` directory with the following naming scheme: </br>
 `name-example.spec.js` </br>
-This file is for defining the tests for the code in `name-example.js`.
+This file is for defining the tests for your code in `name-example.js`.
