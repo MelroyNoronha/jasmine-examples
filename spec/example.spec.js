@@ -1,7 +1,7 @@
 //Basic assertion in Jasmine
 
 describe("Math functions", function() {
-  const math = require("../math");
+  const math = require("../example");
 
   describe("math.add():", function() {
     it("add() should return a number", function() {
