@@ -13,5 +13,14 @@ Open a terminal in the `jasmine-examples` directory and run: </br>
 
 ## Running the tests
 You should now be able to run: </br>
-`jasmine`
+`jasmine` </br>
 This will run all the unit tests defined in `spec/example.spec.js`
+
+## Adding your own tests
+Create a file in the `jasmine-examples` directory with the following naming scheme: </br>
+`name-example.js` (replace 'name' with your name) </br>
+This file is for the code that you would like to test.
+
+Create a file in the `spec` directory with the following naming scheme: </br>
+`name-example.spec.js` </br>
+This file is for defining the tests for the code in `name-example.js`.
